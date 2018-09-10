@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="543d104c-a5d3-4e58-8c8d-4045db1cc5ba" name="Default Changelist" comment="" />
+    <list default="true" id="543d104c-a5d3-4e58-8c8d-4045db1cc5ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/n4-nola-initial-inv-mns-xps-combined.py" beforeDir="false" afterPath="$PROJECT_DIR$/n4-nola-initial-inv-mns-xps-combined.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,7 @@
     <session id="1904757224">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -110,6 +113,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
